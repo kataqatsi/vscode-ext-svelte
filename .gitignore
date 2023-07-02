@@ -6,7 +6,6 @@ node_modules/
 .html
 tailwind.config.js
 
-build/
 dist/
 .env
 *.spec
